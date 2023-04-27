@@ -1,0 +1,11 @@
+:root{
+    --cor-fundo:#f0f0f0f0;
+    --cor-fundo1:#000000;
+    
+}
+
+body{
+    background-color: var(--cor-fundo1);
+    color: var(--cor-fundo);
+    text-align: center;
+}
